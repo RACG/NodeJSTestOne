@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Workspace files are user-specific
+*.sublime-workspace
